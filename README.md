@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rohbhot
-- 👀 I’m robotics and machine vision  in ...
-- 🌱 I’m learning machine vision and automation  ...
+- 👋 Hi, I’m rohbhot
+- 👀 I’m robotics and machine vision engineer
+- 🌱 I’m learning software architectures
 - 💞️ 
 - 📫 rohbhot@gmail.com
 <!---
