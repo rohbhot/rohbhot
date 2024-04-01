@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rohbhot
-- 👀 I’m robotics and machine vision engineer
-- 🌱 I’m learning software architectures
+- 👀 I’m a Product Manager with skillsets of robotics and machine vision engineer
+- 🌱 Learning Software Products
 - 💞️ 
 - 📫 rohbhot@gmail.com
 <!---
